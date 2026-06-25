@@ -1,0 +1,66 @@
+URL: https://martinfowler.com/books/refactoring.html
+COLLECTED_AT: 2026-06-21T07:45:13.652Z
+
+ 
+Refactoring
+Agile
+Architecture
+About
+Thoughtworks
+
+< All Books
+
+Refactoring
+
+Improving the Design of Existing Code
+
+by Martin Fowler, with Kent Beck
+
+2018
+
+The guide to how to transform code with safe and rapid process, vital to keeping it cheap and easy to modify for future needs.
+
+ 
+
+Notes for buying my books
+
+Refactoring is a controlled technique for improving the design of an existing code base. Its essence is applying a series of small behavior-preserving transformations, each of which “too small to be worth doing”. However the cumulative effect of each of these transformations is quite significant. By doing them in small steps you reduce the risk of introducing errors. You also avoid having the system broken while you are carrying out the restructuring - which allows you to gradually refactor a system over an extended period of time.
+
+My book describes the process of refactoring and spends most of its time explaining how to do the various refactorings - the behavior preserving transformations. The book opens with a simple example that describes the whole process. There are then some introductory chapters that discuss broader issues around refactoring, the “code smells” that suggest refactoring, and the role of testing.
+
+The bulk of the book is around seventy refactorings described in detail: the motivation for doing them, mechanics of how to do them safely and a simple example.
+
+This is the second edition of the book, published late in 2018. The first edition came out in 1999. This is the book that I'm proudest of, in that it's had a high impact on the world of software development. Several development environments now automate many of the refactorings described in the book. Refactoring has become a full-fledged part of the software development lexicon (sadly also leading to misuse).
+
+Errata
+
+FURTHER READING
+refactoring.com
+
+Further resources on refactoring: in particular a catalog that includes summaries of all the refactorings in the book
+
+Free Download of Opening Chapter
+
+Code Samples for Opening Chapter
+
+Emily Bache hosts a repo with the starting code for the opening chapter in a dozen languages
+
+Changes for the 2nd Edition
+
+Summarizes the changes between the first and second editions.
+
+How to access the web edition
+
+Memos on the second edition
+
+Thoughts about writing the new edition: including its scope, cover choice, target readers.
+
+Errata for First Edition
+
+Interviewed by Camilla Crispim
+
+1 hour video on the second edition
+
+InfoQ Interview
+
+© Martin Fowler | Disclosures

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "fowler-combine-functions-into-class",
+    "url": "https://refactoring.com/catalog/combineFunctionsIntoClass.html",
+    "collectedAt": "2026-06-21T07:45:10.476Z",
+    "status": "OK",
+    "screenshot": "step_archive\\screenshots\\research\\fowler-combine-functions-into-class.png",
+    "raw": "step_archive\\research-raw-fowler-combine-functions-into-class.txt",
+    "error": ""
+  },
+  {
+    "id": "fowler-refactoring-book",
+    "url": "https://martinfowler.com/books/refactoring.html",
+    "collectedAt": "2026-06-21T07:45:13.652Z",
+    "status": "OK",
+    "screenshot": "step_archive\\screenshots\\research\\fowler-refactoring-book.png",
+    "raw": "step_archive\\research-raw-fowler-refactoring-book.txt",
+    "error": ""
+  },
+  {
+    "id": "refactoring-guru-combine-functions-into-class",
+    "url": "https://refactoring.guru/combine-functions-into-class",
+    "collectedAt": "2026-06-21T07:45:16.036Z",
+    "status": "OK",
+    "screenshot": "step_archive\\screenshots\\research\\refactoring-guru-combine-functions-into-class.png",
+    "raw": "step_archive\\research-raw-refactoring-guru-combine-functions-into-class.txt",
+    "error": ""
+  },
+  {
+    "id": "material-design-navigation",
+    "url": "https://m3.material.io/foundations/interaction/gestures",
+    "collectedAt": "2026-06-21T07:45:18.907Z",
+    "status": "OK",
+    "screenshot": "step_archive\\screenshots\\research\\material-design-navigation.png",
+    "raw": "step_archive\\research-raw-material-design-navigation.txt",
+    "error": ""
+  },
+  {
+    "id": "awwwards-education",
+    "url": "https://www.awwwards.com/websites/education/",
+    "collectedAt": "2026-06-21T07:45:30.211Z",
+    "status": "OK",
+    "screenshot": "step_archive\\screenshots\\research\\awwwards-education.png",
+    "raw": "step_archive\\research-raw-awwwards-education.txt",
+    "error": ""
+  },
+  {
+    "id": "awwwards-interactive",
+    "url": "https://www.awwwards.com/websites/interactive/",
+    "collectedAt": "2026-06-21T07:45:42.502Z",
+    "status": "OK",
+    "screenshot": "step_archive\\screenshots\\research\\awwwards-interactive.png",
+    "raw": "step_archive\\research-raw-awwwards-interactive.txt",
+    "error": ""
+  }
+]

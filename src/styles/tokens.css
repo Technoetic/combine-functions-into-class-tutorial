@@ -1,0 +1,34 @@
+/* @MX:NOTE: Design tokens are the only color source for the tutorial UI. */
+:root {
+  --color-paper: #f7f5ef;
+  --color-paper-strong: #eee9dc;
+  --color-panel: #fffdf8;
+  --color-panel-muted: #f1ede2;
+  --color-ink: #1d2529;
+  --color-ink-soft: #526066;
+  --color-line: #c9c0b1;
+  --color-line-strong: #8e8374;
+  --color-accent: #0b766e;
+  --color-accent-strong: #063f3b;
+  --color-accent-soft: #d8ece8;
+  --color-accent-pale: #edf8f4;
+  --color-warn: #aa4a3d;
+  --color-gold: #8f6b16;
+  --color-white: #ffffff;
+  --shadow-panel: 0 24px 80px rgba(29, 37, 41, 0.13);
+  --shadow-soft: 0 12px 36px rgba(29, 37, 41, 0.1);
+  --font-base: "Segoe UI", "Noto Sans KR", system-ui, sans-serif;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 16px;
+  --space-4: 24px;
+  --space-5: 32px;
+  --space-6: 48px;
+  --radius-0: 0;
+  --radius-1: 4px;
+  --radius-2: 8px;
+  --radius-3: 12px;
+  --radius-4: 16px;
+  --stage-min-height: 560px;
+  --control-height: 44px;
+}

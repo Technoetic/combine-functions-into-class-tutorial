@@ -1,0 +1,12 @@
+[
+  {
+    "viewport": "desktop",
+    "screenshot": "step_archive/screenshots/final-desktop.png",
+    "canvasPixels": 2135
+  },
+  {
+    "viewport": "mobile",
+    "screenshot": "step_archive/screenshots/final-mobile.png",
+    "canvasPixels": 1641
+  }
+]

@@ -1,0 +1,223 @@
+URL: https://m3.material.io/foundations/interaction/gestures
+COLLECTED_AT: 2026-06-21T07:45:18.907Z
+
+Skip to main content
+search
+material_design
+Home
+apps
+Get started
+code
+Develop
+book
+Foundations
+palette
+Styles
+add_circle
+Components
+pages
+Blog
+play_arrow
+pause
+dark_mode
+light_mode
+Gestures
+Gestures are all the ways people interact with UI elements using touch
+pause
+On this page
+Gestures
+Resources
+Types of gestures
+link
+Copy link
+
+Gestures help people navigate, take action, or transform content
+
+UI elements should respond to gestures in real time
+
+Tap, scroll, and swipe are common gestures
+
+link
+Copy link
+Resources
+link
+Copy link
+
+Type
+
+	
+
+Link
+
+	
+
+Status
+
+
+
+
+Design
+
+	
+
+Design Kit (Figma)
+
+	
+
+Available
+
+link
+Copy link
+Types of gestures
+link
+Copy link
+Tap
+
+People can navigate to destinations and interact with elements through touch.
+
+pause
+
+Tapping a card opens an article
+
+link
+Copy link
+Double tap
+
+Two quick taps allows people to zoom in and out of content.
+
+pause
+
+Double tapping on a photo opens it to full screen
+
+link
+Copy link
+Long press
+
+People can access additional functionality by pressing on elements for an extended time.
+
+pause
+
+Long pressing a list item selects it
+
+link
+Copy link
+Scroll and pan
+
+People can slide surfaces vertically, horizontally, or in any direction to move through content.
+
+pause
+
+Vertical scrolling reveals more content
+
+link
+Copy link
+Swipe
+
+People can navigate horizontally to:
+
+Switch between peer views like tabs
+
+Complete actions
+
+pause
+
+Swiping a list item can reveal additional actions
+
+link
+Copy link
+Predictive back
+
+On Android, a person can swipe left or right on certain components as a way to navigate to a previous destination. This gesture is called predictive back.
+
+Before completing the swipe, the person can decide to continue to the previous view or stay in the current view.
+
+Compatible components are:
+
+Bottom sheet
+
+
+Navigation bar
+
+
+Navigation rail
+
+
+Search bar
+
+
+Side sheet
+
+
+pause
+
+A predictive back swipe on a bottom sheet goes back to the previous screen
+
+link
+Copy link
+Drag
+
+People can move elements around and slide surfaces in and out of view.
+
+pause
+
+A list can be reordered by dragging a list item
+
+link
+Copy link
+Pick up and move
+
+A long press and drag allows people to reorder content.
+
+pause
+
+A calendar event can be picked up and moved to a new time
+
+link
+Copy link
+Pinch
+
+People can scale surfaces to navigate between screens.
+
+pause
+
+A photo can be pinched outward to a full screen view
+
+link
+Copy link
+Compound gestures
+
+Users can fluidly transition between various gestures, like panning and pinching in a map view.
+
+pause
+
+A map UI can be navigated through a combination of pan and pinch
+
+arrow_left_alt
+Previous
+Design tokens: Overview
+Up next
+arrow_right_alt
+Inputs
+material_design
+
+Material Design is an adaptable system of guidelines, components, and tools that support the best practices of user interface design. Backed by open-source code, Material Design streamlines collaboration between designers and developers, and helps teams quickly build beautiful products.
+
+Social
+GitHub
+X
+YouTube
+Blog RSS
+Libraries
+Android
+Compose
+Flutter
+Web
+More Google sites
+Google Design
+Archived versions
+Material Design 1
+Material Design 2
+Privacy Policy
+Terms of Service
+Join research studies
+Feedback
